@@ -1,11 +1,7 @@
 # ApplePay and Adyen
 
-## Integration on the iOS
-
-There are two possibilities on setting up ApplePay on Client iOS device.
-
-1. Use this library `AdyenPay`
-2. Use the Apple `PassKit` directly
+Also read wiki: 
+https://github.com/Adyen/adyen-apple-pay-sample-code/wiki
 
 ### Using ApplePay via `PassKit`
 
