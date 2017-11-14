@@ -1,5 +1,0 @@
-#include "Pods-PayExample-TKFormKit.xcconfig"
-GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
-HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/TKFormKit" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AdyenPay" "${PODS_ROOT}/Headers/Public/TKFormKit"
-OTHER_LDFLAGS = ${PODS_PAYEXAMPLE_TKFORMKIT_OTHER_LDFLAGS} -ObjC
-PODS_ROOT = ${SRCROOT}

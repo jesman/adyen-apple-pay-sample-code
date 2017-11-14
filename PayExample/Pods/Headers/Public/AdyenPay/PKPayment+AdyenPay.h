@@ -1,1 +1,0 @@
-../../../AdyenPay/AdyenPay.framework/Versions/A/Headers/PKPayment+AdyenPay.h
